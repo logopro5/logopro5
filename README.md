@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @logopro5 AKA Axl
+- 👀 I’m interested in programming and retro/vintage computers and game consoles!
+- 🌱 I’m currently learning BASIC, 6502 Assembly, and im hoping to learn C and HTML in the future!
+- 💞️ I’m looking to collaborate on a remastered version of Crystalis, which i am currently developing with GMS2.
